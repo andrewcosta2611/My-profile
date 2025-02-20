@@ -39,7 +39,7 @@ I currently work as a **Quality Assurance Engineer** at **Globalist**, where I s
 I'm continuously exploring new **testing frameworks** and methodologies to enhance **software quality**. I'm particularly focused on integrating **automation testing** into CI/CD pipelines using **Jenkins** and **Docker** to drive efficiency and scalability.
 
 ## 💡 Fun Fact
-I believe that **quality of project** isn’t just about finding bugs—it's about ensuring that users have the best experience possible. ⚡
+I believe that **quality of project** isn’t just about *finding bugs*—it's about ensuring that users have the best experience possible. ⚡
 
 ## 📫 Let's Connect
 I love collaborating on projects, sharing knowledge, and learning from fellow developers. Feel free to reach out if you’re interested in discussing **quality assurance practices, technology**, or if you have an **interesting project** that you’d like to collaborate on!

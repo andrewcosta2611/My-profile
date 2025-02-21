@@ -18,11 +18,11 @@ I currently work as a **Quality Assurance Engineer** at **Globalist**, where I s
 - **Agile & Scrum Methodologies** 🏆
 
 ## 🔧 Skills
-- ✅ Quality Control Inspections
-- 🐞 Software Testing & Bug Identification
-- 🔍 Root Cause Analysis
-- 📊 Data Reporting & Documentation
-- 🤝 Collaboration & Team Leadership
+- ✅ Quality Control Inspections.
+- 🐞 Software Testing & Bug Identification.
+- 🔍 Root Cause Analysis.
+- 📊 Data Reporting & Documentation.
+- 🤝 Collaboration & Team Leadership.
 
 ## 🌍 Languages & Tools
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

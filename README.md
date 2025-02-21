@@ -33,7 +33,6 @@ I currently work as a **Quality Assurance Engineer** at **Globalist**, where I s
 - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🌱 What I'm Working On
 I'm continuously exploring new **testing frameworks** and methodologies to enhance **software quality**. I'm particularly focused on integrating **automation testing** into CI/CD pipelines using **Jenkins** and **Docker** to drive efficiency and scalability.
